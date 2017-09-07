@@ -7,3 +7,4 @@ Testing notifications
 Test 2
 Testing Security
 Security Test 2
+Logging something
